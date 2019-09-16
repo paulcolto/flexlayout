@@ -39,7 +39,7 @@ h1 {
     display: flex;
     flex-direction: column;
    
-    padding: 3rem 7rem;
+    padding: 3rem 7rem 8rem 7rem;
 }
 
 .article h1 {
@@ -51,13 +51,13 @@ h1 {
 .article p {
     line-height: 1.5rem;
     margin: 0;
+    
 }
 
 
 .footer {
 
     padding: 3rem;
-    width: 100vw;
     color: white;
     background-color: grey;
 
